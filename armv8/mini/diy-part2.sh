@@ -37,6 +37,7 @@ svn co https://github.com/sirpdboy/sirpdboy-package/trunk/luci-app-smartdns pack
 svn co https://github.com/Lienol/openwrt-package/trunk/luci-app-filebrowser package/luci-app-filebrowser
 svn co https://github.com/sirpdboy/sirpdboy-package/trunk/luci-app-smartdns package/luci-app-smartdns
 svn co https://github.com/sirpdboy/sirpdboy-package/trunk/luci-app-netdata package/luci-app-netdata
+svn co https://github.com/fw876/helloworld/trunk/lua-neturl package/lua-neturl
 
 # 科学上网插件依赖
 svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/luci-app-openclash
